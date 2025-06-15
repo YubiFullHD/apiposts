@@ -26,12 +26,12 @@ INSERT INTO `autores` (nombre, email, imagen) VALUES ('Juan','juan@gmail.com',''
 ('Ana','ana@gmail.com','');
 
 INSERT INTO `posts` (titulo, descripcion, fecharegistro, categoria, idautor) VALUES 
-('Post 1', 'Descripcion post 1', '2025-01-01', 'Musica', 1),
-('Post 2', 'Descripcion post 2', '2025-02-02', 'Deportes', 1),
-('Post 3', 'Descripcion post 3', '2025-03-03', 'Politica', 1),
-('Post 1', 'Descripcion post 1', '2025-01-01', 'Politica', 2),
-('Post 2', 'Descripcion post 2', '2025-02-02', 'Deportes', 2),
-('Post 3', 'Descripcion post 3', '2025-03-03', 'Politica', 2),
-('Post 1', 'Descripcion post 1', '2025-01-01', 'Musica', 3),
-('Post 2', 'Descripcion post 2', '2025-02-02', 'Musica', 3),
-('Post 3', 'Descripcion post 3', '2025-03-03', 'Deportes', 3);
+('La historia de la musica', 'Descripcion post 1', '2025-01-01', 'Musica', 1),
+('Mi primer deporte', 'Descripcion post 2', '2025-02-02', 'Deportes', 1),
+('Presidente', 'Descripcion post 3', '2025-03-03', 'Politica', 1),
+('Los ministros', 'Descripcion post 1', '2025-01-01', 'Politica', 2),
+('Equipo campeon', 'Descripcion post 2', '2025-02-02', 'Deportes', 2),
+('Plan de ordenamiento', 'Descripcion post 3', '2025-03-03', 'Politica', 2),
+('Los mejores del rock', 'Descripcion post 1', '2025-01-01', 'Musica', 3),
+('Historia de la musica', 'Descripcion post 2', '2025-02-02', 'Musica', 3),
+('Champions league', 'Descripcion post 3', '2025-03-03', 'Deportes', 3);
